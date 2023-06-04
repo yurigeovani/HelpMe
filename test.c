@@ -26,7 +26,6 @@ int main() {
         case 0:
             break;
         default:
-            printf("\nOpca: ")
             printf("\nOpcao invalida! Selecione uma opcao valida!");
             break;
         }
